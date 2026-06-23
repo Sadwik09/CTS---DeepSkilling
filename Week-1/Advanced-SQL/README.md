@@ -1,12 +1,3 @@
 # Advanced SQL
 
-## Topics Covered
-- Complex Joins
-- Subqueries & CTEs
-- Window Functions
-- Aggregate Functions
-- Indexing & Query Optimization
-- Stored Procedures & Triggers
-
-## Resources
-- Add SQL queries and scripts here
+This folder contains notes and hands-on exercises related to SQL concepts, database queries, and database management.
